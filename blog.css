@@ -1,0 +1,27 @@
+header{
+    background: blueviolet;
+    border-radius: 10px;
+    font-size: 20px;
+    color: rgb(249, 248, 247);
+    border: 10px;
+    display: inline-block;
+    margin-bottom: 2px;
+    padding: 2px;
+    
+}
+#one{
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    box-shadow: 5px white;
+    background-color:yellowgreen;
+}
+#two{
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    box-shadow: 5px white;
+    background-color:yellowgreen;
+}
